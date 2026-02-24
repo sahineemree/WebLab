@@ -71,5 +71,21 @@ export default defineConfig([
   },
 ])
 ```
-
+## Repo
 https://github.com/sahineemree/WebLab
+
+## LAB-2 – Semantik Portföy
+
+- Semantik HTML5 etiketleri kullanıldı (header, nav, main, section, article, footer)
+- Heading hiyerarşisi korundu (h1 > h2 > h3)
+- Skip link eklendi
+- Form alanları label ile ilişkilendirildi ve doğrulama öznitelikleri eklendi
+- aria özellikleri kullanıldı
+- Lighthouse Erişilebilirlik skoru: 96
+
+### Lighthouse Sonucu
+![Lighthouse Accessibility](lighthouse-accessibility.png)
+
+### Gelistirici
+- **Ad Soyad:** Emre Şahin
+- **Ogrenci No:** 235541015
