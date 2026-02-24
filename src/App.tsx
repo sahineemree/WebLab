@@ -18,4 +18,5 @@ function App() {
   )
 }
 
+<p>Bu proje LAB-1 teslimi icin hazirlanmistir.</p>
 export default App
