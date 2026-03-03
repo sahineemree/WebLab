@@ -47,7 +47,7 @@ export default function App() {
           </p>
 
           <h3>Teknolojiler</h3>
-          <ul>
+          <ul className="skill-tags">
             <li>HTML5 (Semantik)</li>
             <li>CSS</li>
             <li>React + TypeScript</li>

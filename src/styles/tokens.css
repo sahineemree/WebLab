@@ -1,0 +1,38 @@
+:root {
+  /* Colors */
+  --color-bg: #ffffff;
+  --color-surface: #fafafa;
+  --color-text: #111111;
+  --color-muted: #555555;
+  --color-border: #dddddd;
+  --color-accent: #0b5fff;
+  --color-danger: #b00020;
+
+  /* Spacing */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+
+  /* Radius */
+  --radius-1: 8px;
+  --radius-2: 12px;
+
+  /* Shadows */
+  --shadow-1: 0 1px 2px rgba(0,0,0,0.08);
+
+  /* Layout */
+  --container-max: 900px;
+
+  /* Typography (fluid) */
+  --text-base: clamp(16px, 1.2vw, 18px);
+  --text-h1: clamp(28px, 3vw, 40px);
+  --text-h2: clamp(22px, 2.2vw, 30px);
+  --text-h3: clamp(18px, 1.8vw, 22px);
+
+  /* Focus */
+  --focus-ring: 3px solid #000;
+  --focus-offset: 3px;
+}
