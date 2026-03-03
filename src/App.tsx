@@ -78,6 +78,17 @@ export default function App() {
               <p><strong>Kullanılanlar:</strong> HTML Semantics, A11y, CSS</p>
               <a href="#iletisim">İletişime git</a>
             </article>
+            <article className="card" aria-labelledby="p3-baslik">
+              <h3 id="p3-baslik">Responsive Layout & Design Tokens (LAB-3)</h3>
+              <p>
+                Design tokens (CSS değişkenleri), clamp() ile fluid typography, Flexbox ile header/nav
+                ve Grid ile proje kartları. 375/768/1280 breakpoint ekran görüntüleri eklendi.
+              </p>
+              <p><strong>Kullanılanlar:</strong> CSS Tokens, Flexbox, Grid, Responsive</p>
+              <a href="https://github.com/sahineemree/WebLab" target="_blank" rel="noreferrer">
+                Repo’yu aç
+              </a>
+            </article>
           </div>
         </section>
 
